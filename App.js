@@ -11,6 +11,8 @@ const Tab = createBottomTabNavigator()
 
 
 
+
+/*
 export default class React_Dictionary_App extends React.Component{
     render(){
       return(
@@ -31,3 +33,4 @@ export default class React_Dictionary_App extends React.Component{
       );
     }
 }
+*/
